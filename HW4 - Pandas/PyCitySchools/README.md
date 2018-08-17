@@ -1,5 +1,5 @@
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
-Academy of Py
+
 The purpose of this assignment is to create multiple summary tables using Pandas data frames to analyze the data provided in the schools_complete.csv & students_complete.csv.
 
 ### District Summary
